@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Pathfinder from './Pathfinder/pathfinder'
+import App from './App'
 import reportWebVitals from './ReactNative/reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <Pathfinder />
+    <App />
 );
 
 reportWebVitals();

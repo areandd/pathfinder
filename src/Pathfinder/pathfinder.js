@@ -1,8 +1,7 @@
-
 function Pathfinder() {
   return (
     <div className="App">
-     fgfgf
+     Pathfinder
     </div>
   );
 }
